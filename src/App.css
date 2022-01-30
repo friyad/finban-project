@@ -1,0 +1,27 @@
+html,body{
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+  background-color: #ededed;
+  border: 2px solid #ededed;
+  height: 100%;
+}
+
+.spring-list {
+  width: 100%!important;
+}
+.spring-item div {
+  cursor: all-scroll;
+  transition: 0.2s;
+}
+
+.spring-item{
+  width: 100%!important;
+
+}
+
+.spring-item[data-active='true'] div {
+    box-shadow: 0 0px 10px 0px rgba(0, 0, 0, 0.4);
+}
