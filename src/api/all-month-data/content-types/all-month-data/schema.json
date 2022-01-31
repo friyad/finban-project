@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "all_month_datas",
+  "info": {
+    "singularName": "all-month-data",
+    "pluralName": "all-month-datas",
+    "displayName": "allMonthData"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "allData": {
+      "type": "json"
+    }
+  }
+}
