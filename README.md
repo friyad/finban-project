@@ -1,1 +1,1 @@
-# Finban Project (Frontend)
+# Finban Project
